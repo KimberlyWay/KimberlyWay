@@ -59,11 +59,26 @@ Xray / VLESS (Reality, Hysteria 2), Shadowsocks, Cloudflare Zero Trust / Tunnels
 ![Kuma](https://img.shields.io/badge/Uptime%20Kuma-6A0DAD?style=for-the-badge&logo=statuspage&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bots-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white)
 
-Автоматизированные алерты, cron-задачи, бэкапы в Cloudflare R2 (S3-совместимое хранилище).
+Автоматизированные алерты, мониторинг CPU/RAM/Disk, cron-задачи, дампы БД (export/import), offsite-бэкапы в Cloudflare R2 через rclone.
+
+**Domains, Mail & Payments**
+![Cron](https://img.shields.io/badge/Crontab-6A0DAD?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)
+
+Привязка доменов к IP, SMTP-шлюзы для почты/уведомлений, интеграция сторонних API (в т.ч. TonConnect).
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🧩 Диагностика и автоматизация
+
+- Диагностика инцидентов через `docker logs` и анализ консоли с помощью AI-инструментов.
+- Перенос инфраструктуры между серверами с минимальным простоем; администрирование парка из **8 собственных VPS**.
+- Написание Bash/Python-скриптов и небольших утилит для себя (например, монитор ресурсов).
+- Работа с Git для управления проектами и конфигурациями.
 
 <br>
 
@@ -88,10 +103,10 @@ Xray / VLESS (Reality, Hysteria 2), Shadowsocks, Cloudflare Zero Trust / Tunnels
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zazdravie&show_icons=true&hide_border=true&bg_color=0D0221&title_color=B385F2&icon_color=8A2BE2&text_color=c9c9c9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zazdravie&layout=compact&hide_border=true&bg_color=0D0221&title_color=B385F2&text_color=c9c9c9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KimberlyWay&show_icons=true&hide_border=true&bg_color=0D0221&title_color=B385F2&icon_color=8A2BE2&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlyWay&layout=compact&hide_border=true&bg_color=0D0221&title_color=B385F2&text_color=c9c9c9" width="40%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zazdravie&hide_border=true&background=0D0221&ring=8A2BE2&fire=B385F2&currStreakLabel=B385F2" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KimberlyWay&hide_border=true&background=0D0221&ring=8A2BE2&fire=B385F2&currStreakLabel=B385F2" width="65%"/>
 
 </div>
 
