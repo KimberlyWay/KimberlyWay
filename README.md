@@ -1,30 +1,104 @@
-### 🛠 System Administrator | Linux & Networks
+<div align="center">
 
-Специализируюсь на администрировании Linux (Ubuntu), контейнеризации и проектировании защищённых сетевых архитектур. Фокусируюсь на оптимизации сетевого стека, приватности и автоматизации инфраструктуры.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,50:6A0DAD,100:B385F2&height=200&section=header&text=Kimberly&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Administrator%20%7C%20Linux%20%26%20Networks&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=B385F2&center=true&vCenter=true&width=650&lines=Linux+%7C+Docker+%7C+Nginx+%2F+Caddy;VLESS+%2F+Reality+%2F+WireGuard;Cloudflare+Zero+Trust+%26+Tunnels;Строю+приватную+сетевую+инфраструктуру" alt="Typing SVG" />
 
-### 🛠️ Tech Stack & Expertise
+</div>
 
-* **Operating Systems:** Ubuntu Server (Kernel tuning: `sysctl`, TCP BBR optimization).
-* **Containerization:** Docker & Docker Compose (Multi-container orchestration, data volumes).
-* **Web & Reverse Proxy:** Nginx, Caddy (Reverse Proxy, SSL automation, traffic routing).
-* **Networking & Routing:** Cloudflare (Zero Trust, Tunnels, DoH), Xray / VLESS (Reality, Hysteria 2), Shadowsocks, WireGuard.
-* **Security & Hardening:** SSH Hardening, secure access policies, UFW firewall configurations.
-* **Monitoring & Alerts:** Uptime Kuma, automated Telegram infrastructure logs.
+<br>
 
----
+## 🟣 Обо мне
 
-### 🌐 Production & Projects
+Специализируюсь на администрировании **Linux (Ubuntu)**, контейнеризации и проектировании защищённых сетевых архитектур. Фокус — на оптимизации сетевого стека, приватности и автоматизации инфраструктуры.
 
-Развиваю и поддерживаю экосистему **WISP** — приватные и защищенные сетевые решения:
-* 🔗 **[WISP Hub](https://mywisp.uk/)** — главная страница проекта.
-* 🛒 **[WISP Store](https://shop.mywisp.uk/)** — Website для продаж.
-* 🤖 **[WISP Bot](https://t.me/vpnwispbot)** — Telegram-бот для продаж.
+Быстро разбираюсь в новой документации, нацелен на результат и качество конечного продукта, эффективно использую AI-инструменты для решения технических задач.
 
----
+<br>
 
-### 📊 GitHub Activity
+## 🛠️ Tech Stack & Expertise
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=zazdravie&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=zazdravie&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Operating Systems**
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-6A0DAD?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white)
+
+Kernel tuning: `sysctl`, TCP BBR, TCP Window Scaling, оптимизация сетевых буферов.
+
+**Containerization**
+![Docker](https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white)
+![Compose](https://img.shields.io/badge/Docker%20Compose-8A2BE2?style=for-the-badge&logo=docker&logoColor=white)
+
+Multi-container оркестрация, data volumes, миграция инфраструктуры между серверами.
+
+**Web & Reverse Proxy**
+![Nginx](https://img.shields.io/badge/Nginx-6A0DAD?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-8A2BE2?style=for-the-badge&logo=caddyserver&logoColor=white)
+
+Reverse proxy, SSL-автоматизация (Certbot/Caddy), multi-tenant роутинг по поддоменам.
+
+</td>
+<td valign="top" width="50%">
+
+**Networking & VPN**
+![Cloudflare](https://img.shields.io/badge/Cloudflare-6A0DAD?style=for-the-badge&logo=cloudflare&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-8A2BE2?style=for-the-badge&logo=wireguard&logoColor=white)
+
+Xray / VLESS (Reality, Hysteria 2), Shadowsocks, Cloudflare Zero Trust / Tunnels / DoH, WAF.
+
+**Security & Hardening**
+![SSH](https://img.shields.io/badge/SSH%20Hardening-6A0DAD?style=for-the-badge&logo=openssh&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW%20%2F%20Fail2ban-8A2BE2?style=for-the-badge&logo=linux&logoColor=white)
+
+Строгая авторизация по ключам, firewall-политики, защита от брутфорса.
+
+**Monitoring & Data**
+![Kuma](https://img.shields.io/badge/Uptime%20Kuma-6A0DAD?style=for-the-badge&logo=statuspage&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white)
+
+Автоматизированные алерты, cron-задачи, бэкапы в Cloudflare R2 (S3-совместимое хранилище).
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌐 Production & Projects
+
+Развиваю и поддерживаю экосистему **VPN Wisp** — приватные и защищённые сетевые решения. Полный цикл: от инфраструктуры (VLESS/Reality на нескольких VPS в разных регионах) до продаж и поддержки клиентов.
+
+<div align="center">
+
+| Проект | Описание |
+|---|---|
+| 🔗 **[mywisp.uk](https://mywisp.uk/)** | Сайт-визитка проекта |
+| 🛒 **[shop.mywisp.uk](https://shop.mywisp.uk/)** | Веб-магазин — self-service подключение и оплата |
+| 🤖 **[@vpnwispbot](https://t.me/vpnwispbot)** | Telegram-бот управления подпиской и подключением |
+| 📊 **Uptime Kuma** | Публичный статус серверов |
+
+</div>
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zazdravie&show_icons=true&hide_border=true&bg_color=0D0221&title_color=B385F2&icon_color=8A2BE2&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zazdravie&layout=compact&hide_border=true&bg_color=0D0221&title_color=B385F2&text_color=c9c9c9" width="40%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zazdravie&hide_border=true&background=0D0221&ring=8A2BE2&fire=B385F2&currStreakLabel=B385F2" width="65%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B385F2,50:6A0DAD,100:2D0B4E&height=100&section=footer"/>
+
+</div>
