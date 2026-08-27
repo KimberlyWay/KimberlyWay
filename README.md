@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,50:6A0DAD,100:B385F2&height=200&section=header&text=Kimberly&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Administrator%20%7C%20Linux%20%26%20Networks&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=B385F2&center=true&vCenter=true&width=650&lines=Linux+%7C+Docker+%7C+Nginx+%2F+Caddy;VLESS+%2F+Reality+%2F+WireGuard;Cloudflare+Zero+Trust+%26+Tunnels;Строю+приватную+сетевую+инфраструктуру" alt="Typing SVG" />
+<p><b>Linux · Docker · Nginx / Caddy · VLESS / Reality / WireGuard · Cloudflare Zero Trust</b></p>
 
 </div>
 
@@ -106,7 +106,7 @@ Xray / VLESS (Reality, Hysteria 2), Shadowsocks, Cloudflare Zero Trust / Tunnels
 <img src="https://github-readme-stats.vercel.app/api?username=KimberlyWay&show_icons=true&hide_border=true&bg_color=0D0221&title_color=B385F2&icon_color=8A2BE2&text_color=c9c9c9" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlyWay&layout=compact&hide_border=true&bg_color=0D0221&title_color=B385F2&text_color=c9c9c9" width="40%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KimberlyWay&hide_border=true&background=0D0221&ring=8A2BE2&fire=B385F2&currStreakLabel=B385F2" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=KimberlyWay&hide_border=true&background=0D0221&ring=8A2BE2&fire=B385F2&currStreakLabel=B385F2" width="65%"/>
 
 </div>
 
