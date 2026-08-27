@@ -9,7 +9,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-6A0DAD?style=for-the-badge&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-6A0DAD?style=for-the-badge&logo=caddyserver&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-6A0DAD?style=for-the-badge&logo=cloudflare&logoColor=white)
-![VLESS](https://img.shields.io/badge/VLESS%20%2F%20Xray-6A0DAD?style=for-the-badge&logoColor=white)
+![VLESS](https://img.shields.io/badge/VLESS%20%2F%20Xray-6A0DAD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDFMMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00eiIvPjwvc3ZnPg==)
 
 </div>
 
@@ -27,9 +27,9 @@
 
 | | |
 |---|---|
-| 🌐 **Сайт-визитка** | [mywisp.uk](https://mywisp.uk/) |
-| 🤖 **Telegram-бот** для управления подпиской и подключением | [@vpnwispbot](https://t.me/vpnwispbot) |
-| 🛒 **Веб-магазин** (self-service подключение и оплата) | [shop.mywisp.uk](https://shop.mywisp.uk/) |
+| 🌐 **Сайт-визитка** | [WISP Hub](https://mywisp.uk/) |
+| 🤖 **Telegram-бот** для управления подпиской и подключением | [WISP Bot](https://t.me/vpnwispbot) |
+| 🛒 **Веб-магазин** (self-service подключение и оплата) | [WISP Store](https://shop.mywisp.uk/) |
 | 📊 **Публичный статус серверов** | [Uptime Kuma](https://kuma.mywisp.uk/status/wisp) |
 
 Проект охватывает: VLESS/Reality на нескольких VPS в разных регионах, Cloudflare (DNS, CDN, Tunnel), реверс-прокси, автоматизацию выпуска SSL, Telegram-бота как интерфейс управления клиентами и мониторинг аптайма.
@@ -57,8 +57,8 @@
 Настройка и сопровождение Nginx и Caddy. Организация реверс-прокси для безопасного доступа к внутренним контейнерам и приложениям, в том числе маршрутизация multi-tenant инфраструктуры — несколько доменов и сервисов на одном сервере через единый reverse proxy с разделением по поддоменам.
 
 ### Сетевые протоколы и VPN
-![VLESS](https://img.shields.io/badge/VLESS%20%2F%20Xray%20(Reality)-8A2BE2?style=for-the-badge&logoColor=white)
-![Shadowsocks](https://img.shields.io/badge/Shadowsocks-8A2BE2?style=for-the-badge&logoColor=white)
+![VLESS](https://img.shields.io/badge/VLESS%20%2F%20Xray%20(Reality)-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDFMMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00eiIvPjwvc3ZnPg==)
+![Shadowsocks](https://img.shields.io/badge/Shadowsocks-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDFMMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00eiIvPjwvc3ZnPg==)
 
 Опыт развёртывания и поддержки современных протоколов обхода блокировок: VLESS/Xray (Reality, Hysteria 2), Shadowsocks. Администрирование парка из **8 собственных VPS**.
 
